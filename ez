@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void)
+{
+    printf("ezez6778\n");
+    return 0;
+}
